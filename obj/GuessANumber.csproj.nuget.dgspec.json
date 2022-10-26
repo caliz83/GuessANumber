@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lizg1\\GitGuessANumber\\GuessANumber\\GuessANumber.csproj": {}
+    "/Users/michellemalfabon/Desktop/GuessANumber/GuessANumber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lizg1\\GitGuessANumber\\GuessANumber\\GuessANumber.csproj": {
+    "/Users/michellemalfabon/Desktop/GuessANumber/GuessANumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lizg1\\GitGuessANumber\\GuessANumber\\GuessANumber.csproj",
+        "projectUniqueName": "/Users/michellemalfabon/Desktop/GuessANumber/GuessANumber.csproj",
         "projectName": "GuessANumber",
-        "projectPath": "C:\\Users\\lizg1\\GitGuessANumber\\GuessANumber\\GuessANumber.csproj",
-        "packagesPath": "C:\\Users\\lizg1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lizg1\\GitGuessANumber\\GuessANumber\\obj\\",
+        "projectPath": "/Users/michellemalfabon/Desktop/GuessANumber/GuessANumber.csproj",
+        "packagesPath": "/Users/michellemalfabon/.nuget/packages/",
+        "outputPath": "/Users/michellemalfabon/Desktop/GuessANumber/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lizg1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/michellemalfabon/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }
