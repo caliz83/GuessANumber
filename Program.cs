@@ -1,6 +1,12 @@
-﻿bool letsPlay = true;
+﻿//Elizabeth Garcia  
+//10/25/2022
+//GitHub Challenges
+
+bool letsPlay = true;
 
 while(letsPlay == true)
+//Review: Michelle M. 
+//It works, nicely done!
 {
 bool isCorrect = false;
 string answer;
