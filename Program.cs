@@ -1,8 +1,4 @@
-﻿//Elizabeth Garcia  
-//10/25/2022
-//GitHub Challenges
-
-bool letsPlay = true;
+﻿bool letsPlay = true;
 
 while(letsPlay == true)
 //Review: Michelle M. 
